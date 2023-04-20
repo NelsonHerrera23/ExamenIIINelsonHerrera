@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495623377921",
+    "project_id": "exameniiinelsonherrera",
+    "storage_bucket": "exameniiinelsonherrera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495623377921:android:15f8ea3438c5b826d79c00",
+        "android_client_info": {
+          "package_name": "com.example.exameniiinelsonherrera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495623377921-bac3k99uahcdqvkbeppg1f7db9dv99bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9rx455sdfSBsj-YyZ82ydqmEOCNxP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495623377921-bac3k99uahcdqvkbeppg1f7db9dv99bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
