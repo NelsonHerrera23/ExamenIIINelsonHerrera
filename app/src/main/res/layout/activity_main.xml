@@ -91,7 +91,10 @@
                 <VideoView
                     android:id="@+id/videoViewVideo"
                     android:layout_width="match_parent"
-                    android:layout_height="141dp" />
+                    android:layout_height="141dp"
+                    android:background="#2C89A4"
+                    android:padding="5dp" />
+
 
                 <Button
                     android:id="@+id/btnVideo"
